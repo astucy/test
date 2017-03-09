@@ -46,6 +46,7 @@ Debbie Lichti
 Alex Stucy
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> upstream/master
@@ -64,14 +65,24 @@ _Nefarious Affiliates_
 
 
 =======
+=======
++ email: stucya16@students.ecu.edu
++ about me: Recently found $10 in an old pair of shorts -- planning to purchase some ice cream after mastering GitHub.
+
+### _Nefarious Affiliates_
+>>>>>>> upstream/master
 Chris Balakrishnan
 + email: balakrishnanc@ecu.edu
 + about me: nefarious affiliate
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> upstream/master
+=======
+Chequita
+>>>>>>> upstream/master
 + email: brooksch16@students.ecu.edu
-+ about me: budding microbial ecologist
++ about me: we're gonna do this guys! 
 
